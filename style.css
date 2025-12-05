@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .wrapper{
@@ -75,4 +76,5 @@ img:hover{
     opacity: 1;
     transform: scale(1.03);
     transition: 1s;
+
 }
